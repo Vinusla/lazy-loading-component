@@ -1,0 +1,1 @@
+## Usando Lazy Loading para carregar componentes no Angular.
